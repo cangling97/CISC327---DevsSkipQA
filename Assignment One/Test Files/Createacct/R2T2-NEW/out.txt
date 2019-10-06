@@ -1,0 +1,1 @@
+Error(R2T2-NEW): account number invalid

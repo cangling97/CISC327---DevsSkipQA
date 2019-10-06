@@ -1,0 +1,1 @@
+Error(R1T1-DEL):accounts can only deleted in agent mode
