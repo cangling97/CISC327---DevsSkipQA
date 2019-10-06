@@ -1,4 +1,4 @@
-# CISC327---DevsStkipQA
+# CISC327---DevsSkipQA
 Assignment for CISC 327, team DevsSkipQA
 
 Zilong Zhang - 20062161
